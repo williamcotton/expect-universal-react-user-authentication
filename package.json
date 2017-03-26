@@ -1,0 +1,29 @@
+{
+  "name": "expect-universal-react-user-authentication",
+  "version": "1.0.0",
+  "description": "Expect Universal React User Authentication",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-universal-react-user-authentication.git"
+  },
+  "keywords": [
+    "expect",
+    "universal",
+    "react",
+    "user",
+    "authentication"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-universal-react-user-authentication/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-universal-react-user-authentication#readme"
+}
